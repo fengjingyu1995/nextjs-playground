@@ -1,4 +1,7 @@
+
+
 import { sleep } from '@/utils/sleep'
+
 
 export default async function PromiseSync() {
     const t1 = performance.now();
